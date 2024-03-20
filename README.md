@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zixiao</h1>
 <h3 align="center">An AI major student with a passion for problem solving</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zix1ao&label=Profile%20views&color=0e75b6&style=flat" alt="zix1ao" /> </p>
+
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **xiaochenqaq@outlook.com**
