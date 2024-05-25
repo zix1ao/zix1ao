@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 📫 How to reach me **xiaochenqaq@outlook.com**
+- 📫 How to reach me **zix1ao@outlook.com**
 
 - ⚡ Fun fact **I made eletronic music before entering college**
 
