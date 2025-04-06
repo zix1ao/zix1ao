@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zix1ao@outlook.com**
 
-- ⚡ Fun fact **I made eletronic music before entering college**
+- ⚡ Fun fact **I made electronic music before entering college**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
